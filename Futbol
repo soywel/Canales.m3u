@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/fM7pfmf9atQjfo2Z8",LaLiga HD
+#EXTINF:-1 ,LaLiga HD
 
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
@@ -82,7 +82,8 @@ acestream://b97f5975dbd067655432512d4693b417bc85a714
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
 
-
+#EXTINF:-1 ,Supercopa HD
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
 
 
 
