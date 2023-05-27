@@ -16,10 +16,13 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
 #EXTINF:-1 ,LaLiga SmartBank HD
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
+acestream://7791ba828c0226d8f54cef1611889d29fb333247 
 
 #EXTINF:-1 ,LaLiga SmartBank 2 HD
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342 
+
+#EXTINF:-1 ,LaLiga SmartBank 3 HD
+acestream://59ba45b79152e4599144177b234f6491fc19db53 
 
 #EXTINF:-1 ,DAZN 1 HD
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660 
