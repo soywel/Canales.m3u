@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,LaLiga 1 HD
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 ,LaLiga 2 HD
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
@@ -10,7 +10,7 @@ acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 
 #EXTINF:-1 ,LaLiga 4 HD
-acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0 
+acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 
 #EXTINF:-1 ,LaLiga 5 HD
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2 
@@ -19,13 +19,13 @@ acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 acestream://c896d37778f9e43549a788fc22206a655895b51b 
 
 #EXTINF:-1 ,Dazn LaLiga 1 HD
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061 
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 ,Dazn LaLiga 2 HD
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
 #EXTINF:-1 ,Dazn LaLiga 3 HD
-acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74 
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 
 #EXTINF:-1 ,Dazn LaLiga 4 HD
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e 
@@ -34,10 +34,10 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7 
 
 #EXTINF:-1 ,LaLiga SmartBank 1 HD
-acestream://7791ba828c0226d8f54cef1611889d29fb333247 
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
 #EXTINF:-1 ,LaLiga SmartBank 2 HD
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342 
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 
 #EXTINF:-1 ,LaLiga SmartBank 3 HD
 acestream://59ba45b79152e4599144177b234f6491fc19db53 
@@ -46,10 +46,7 @@ acestream://59ba45b79152e4599144177b234f6491fc19db53
 acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e 
 
 #EXTINF:-1 ,DAZN 1 HD
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660 
-
-#EXTINF:-1 ,DAZN 1 sd
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd 
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660  
 
 #EXTINF:-1 ,DAZN 2 HD
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
