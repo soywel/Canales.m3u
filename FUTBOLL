@@ -6,11 +6,17 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 ,LaLiga 1 SD
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
+#EXTINF:-1 ,LaLiga 2 HD
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+
 #EXTINF:-1 ,Dazn LaLiga 1 HD
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 ,Dazn LaLiga 1 SD
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+
+#EXTINF:-1 ,Dazn LaLiga 2 HD
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
 #EXTINF:-1 ,LaLiga SmartBank 1 HD
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
@@ -61,6 +67,33 @@ acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 ,M.L. Campeones 3 SD
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
+#EXTINF:-1 ,M.L. Campeones 4 HD
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+
+#EXTINF:-1 ,M.L. Campeones 5 HD
+acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+
+#EXTINF:-1 ,M.L. Campeones 6 HD
+acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+
+#EXTINF:-1 ,M.L. Campeones 7 HD
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+
+#EXTINF:-1 ,M.L. Campeones 8 HD
+acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+
+#EXTINF:-1 ,M.L. Campeones 9 HD
+acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
+
+#EXTINF:-1 ,M.L. Campeones 10 HD
+acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
+
+#EXTINF:-1 ,M.L. Campeones 11 HD
+acestream://57e284a3c13100baeff7a88dc50949585c9f1277
+
+#EXTINF:-1 ,M.L. Campeones 12 HD
+acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+
 #EXTINF:-1 ,#Vamos HD
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
@@ -76,8 +109,33 @@ acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF:-1 ,M.Deportes 2 HD
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
+#EXTINF:-1 ,M.Deportes 3 HD
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+
+#EXTINF:-1 ,M.Deportes 4 HD
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
+
+#EXTINF:-1 ,M.Deportes 5 HD
+acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+
+#EXTINF:-1 ,M.Deportes 6 HD
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
 #EXTINF:-1 ,Eurosport 1 HD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 ,Eurosport 2 HD
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 ,DAZN F1 HD
+acestream://5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 ,Sport TV 1 HD
+acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
+
+#EXTINF:-1 ,Sport TV 2 HD
+acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
+
+#EXTINF:-1 ,Sport TV 3 HD
+acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+
