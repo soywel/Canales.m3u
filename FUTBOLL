@@ -7,7 +7,7 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 ,LaLiga 2 HD
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
 #EXTINF:-1 ,Dazn LaLiga 1 HD
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -62,7 +62,7 @@ acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
 
 #EXTINF:-1 ,M.L. Campeones 3 HD
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 ,M.L. Campeones 3 SD
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
@@ -98,7 +98,7 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 ,#Vamos SD
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 ,M.Deportes 1 HD
 acestream://d00223931b1854163e24c5c22475015d7d45c112
@@ -120,6 +120,9 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
 #EXTINF:-1 ,M.Deportes 6 HD
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1 ,M.Deportes 7 HD
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1 ,Eurosport 1 HD
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
