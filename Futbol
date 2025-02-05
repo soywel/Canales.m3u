@@ -1,91 +1,124 @@
-#EXTM3U
-
-#EXTINF:-1 ,LaLiga HD
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
-
-#EXTINF:-1 ,LaLiga 2 HD
-
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-
-#EXTINF:-1 ,Dazn LaLiga HD
-
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-
-#EXTINF:-1 ,Dazn LaLiga 2 HD
-
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-
-#EXTINF:-1 ,LaLiga SmartBank HD
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-
-
-#EXTINF:-1 ,LaLiga SmartBank 2 HD
-
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-
-#EXTINF:-1 ,DAZN 1 HD
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-
-#EXTINF:-1 ,DAZN 2 HD
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-
-#EXTINF:-1 ,DAZN 3 HD
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-
-#EXTINF:-1 ,DAZN 4 HD
-acestream://149a38e333de920753f1388c43247283bdb05f5b
-
-#EXTINF:-1 ,M.L. Campeones HD
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-
-#EXTINF:-1 ,M.L. Campeones 2 HD
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
-#EXTINF:-1 ,M.L. Campeones 3 HD
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa
-
-#EXTINF:-1 ,M.L. Campeones 4 HD
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
-
-#EXTINF:-1 ,M.L. Campeones 5 HD
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
-
-#EXTINF:-1 ,M.L. Campeones 6 HD
-acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-
-#EXTINF:-1 ,M.L. Campeones 7 HD
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
-
-#EXTINF:-1 ,#Vamos HD
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
-#EXTINF:-1 ,Sport TV1 HD
-acestream://c95422bc904378be0b035eba721d5e6a004f7d79
-
-#EXTINF:-1 ,Sport TV2 HD
-acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
-
-#EXTINF:-1 ,Sport TV3 HD
-acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-
-#EXTINF:-1 ,ESPN 1 HD
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF:-1 ,ESPN 2 HD
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-
-#EXTINF:-1 ,ESPN 3 HD
-acestream://b97f5975dbd067655432512d4693b417bc85a714
-
-#EXTINF:-1 ,ESPN EXTRA HD
-https://futbolfullenvivo.com/canales/espn-premium/op3.php
-
-
-#EXTINF:-1 ,Supercopa HD
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-
-
-
-
-
+{
+    "ELCANO": [
+        {
+            "name": "LaLiga TV BAR HD",
+            "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+        },
+        {
+            "name": "LaLiga TV BAR HD",
+            "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+        },
+        {
+            "name": "M+ LaLiga TV UHD",
+            "url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
+        },
+        {
+            "name": "M+ LaLiga TV HD",
+            "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+        },
+        {
+            "name": "M+ LaLiga TV HD",
+            "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+        },
+        {
+            "name": "M+ LaLiga TV HD",
+            "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+        },
+        {
+            "name": "M+ LaLiga TV HD",
+            "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+        },
+        {
+            "name": "M+ LaLiga TV 2 HD",
+            "url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
+        },
+        {
+            "name": "M+ LaLiga TV 2 HD",
+            "url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
+        },
+        {
+            "name": "M+ LaLiga TV 3 HD",
+            "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
+        },
+        {
+            "name": "M+ LaLiga TV 3 HD",
+            "url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
+        },
+        {
+            "name": "M+ LaLiga TV 4",
+            "url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
+        },
+        {
+            "name": "DAZN LaLiga HD",
+            "url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+        },
+        {
+            "name": "DAZN LaLiga HD",
+            "url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+        },
+        {
+            "name": "DAZN LaLiga HD",
+            "url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
+        },
+        {
+            "name": "DAZN LaLiga HD",
+            "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
+        },
+        {
+            "name": "DAZN LaLiga 2 HD",
+            "url": "acestream://97ba38d47680954be40e48bd8f43e17222fefecb"
+        },
+        {
+            "name": "DAZN LaLiga 2 HD",
+            "url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
+        },
+        {
+            "name": "LaLiga TV Hypermotion HD",
+            "url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb"
+        },
+        {
+            "name": "LaLiga TV Hypermotion HD",
+            "url": "acestream://121f719ebb94193c6086ef92865cf9b197750980"
+        },
+        {
+            "name": "LaLiga TV Hypermotion 2",
+            "url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d"
+        },
+        {
+            "name": "LaLiga TV Hypermotion 2",
+            "url": "acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a"
+        },
+        {
+            "name": "LaLiga TV Hypermotion 3",
+            "url": "acestream://20196007a6697a1f11589fd4c8bab6713c265e64"
+        }
+    ],
+    "new_TimeAdrian": [
+        {
+            "name": "LaLiga TV BAR HD",
+            "url": "acestream://704d3d43e6aa360eb552501eb020793cab93175d"
+        },
+        {
+            "name": "DAZN LaLiga HD",
+            "url": "acestream://27df9a17762aea1c6e256cf12ec262790deafef7"
+        },
+        {
+            "name": "M+ Deportes HD",
+            "url": "acestream://fecc9e98396b3bf9e5643003825b7cdd71346d65"
+        },
+        {
+            "name": "M+ Deportes 2 HD",
+            "url": "acestream://b6c0f2706af6d203dbf15e3363cfbd6b8944afd3"
+        },
+        {
+            "name": "DAZN F1 HD",
+            "url": "acestream://0d7cccccdad350bef0ac65ec37bf55a18d4865a8"
+        },
+        {
+            "name": "La 1 HD",
+            "url": "acestream://7b47fd387480989002b93db1fe9a28f5f7b94576"
+        }
+    ],
+    "new_TimeTronoss": [
+        {
+            "name": "LaLiga TV BAR HD",
