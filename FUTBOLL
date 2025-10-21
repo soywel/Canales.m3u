@@ -1,34 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 ,LaLiga 1 HD
-acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+acestream://d4ff041287a43e3114d411d671c4b4e92e21f33y
 
 #EXTINF:-1 ,LaLiga 1 SD
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1 ,LaLiga 2 HD
-acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+acestream://911ad127726234b97658498a8b790fdd7516541d
 
 #EXTINF:-1 ,LaLiga 3 HD
 acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 
 #EXTINF:-1 ,Dazn LaLiga 1 HD
-acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae
 
 #EXTINF:-1 ,Dazn LaLiga 1 SD
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 
 #EXTINF:-1 ,Dazn LaLiga 2 HD
-acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+acestream://635b61c1f240449163260cd914d10d886a54fee3
 
 #EXTINF:-1 ,LaLiga SmartBank 1 HD
-acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a
 
 #EXTINF:-1 ,LaLiga SmartBank 1 SD
-acestream://121f719ebb94193c6086ef92865cf9b197750980
+acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1 ,LaLiga SmartBank 2 HD
-acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
+acestream://8a05571c0c8fe53f160fb7d116cdf97243679e86
 
 #EXTINF:-1 ,LaLiga SmartBank 2 SD
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
@@ -53,7 +53,7 @@ acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
 #EXTINF:-1 ,M.L. Campeones 1 HD
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+
 
 #EXTINF:-1 ,M.L. Campeones 1 SD
 acestream://8edb264520569b2280c5e86b2dc734e120032903
